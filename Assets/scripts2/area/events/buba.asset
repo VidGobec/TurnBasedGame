@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: buba
+  m_EditorClassIdentifier: 
+  title: Cacoon
+  description: You spot a large cacoon in the middle of the room.
+  options1: go inside the cacoon
+  options2: eat it
+  options3: destroy it
+  buff:
+  - {fileID: 11400000, guid: 5c9790b2c6038614895d4b1c60415136, type: 2}
+  - {fileID: 11400000, guid: 3d18346714e413244bd2bfc6ed994f6c, type: 2}
+  - {fileID: 11400000, guid: c45ed8ed7a2d08d429dcc3067a99db35, type: 2}

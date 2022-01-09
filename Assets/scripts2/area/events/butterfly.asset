@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: butterfly
+  m_EditorClassIdentifier: 
+  title: glowing butterfly
+  description: You enter a dark room and spot a light moving arround it. You notice
+    it's a glowing butterfly flying arround, occasionally landing on the eastern wall.
+  options1: Pray to it.
+  options2: eat it.
+  options3: examine the wall.
+  buff:
+  - {fileID: 11400000, guid: 3b185a488a626f0429cd735a994dc958, type: 2}
+  - {fileID: 11400000, guid: 5fb58b8471878ab418ec158fe1e480eb, type: 2}
+  - {fileID: 11400000, guid: b4e7248e365797348a7ad7c2a03644af, type: 2}

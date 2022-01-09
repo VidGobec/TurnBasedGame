@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c91e1139bcf58f34f9ee983c9f0b7f9f, type: 3}
+  m_Name: orc warrior
+  m_EditorClassIdentifier: 
+  name: orc warrior
+  exp: 0
+  exptoadd: 0
+  level: 0
+  specialization: warrior
+  race: orc
+  basehp: 150
+  currenthp: 132
+  basemp: 50
+  currentmp: 50
+  FOC: 7
+  PER: 8
+  STR: 10
+  INT: 3
+  AGI: 8
+  LCK: 8
+  SPD: 7
+  position: 0
+  abilities:
+  - {fileID: 11400000, guid: e27c0ba1410bba84eafd5928118b0c94, type: 2}
+  - {fileID: 11400000, guid: c858f119056ef114d86d8f453679f446, type: 2}
+  ai: 1
+  buffs: []

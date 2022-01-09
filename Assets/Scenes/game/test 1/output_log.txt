@@ -1,0 +1,55 @@
+Initialize engine version: 2018.3.0f2 (6e9a27477296)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14501.28009
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.116 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.531700 ms
+character must be instantiated using the ScriptableObject.CreateInstance method instead of new character.
+ 
+(Filename:  Line: 645)
+
+character must be instantiated using the ScriptableObject.CreateInstance method instead of new character.
+ 
+(Filename:  Line: 645)
+
+character must be instantiated using the ScriptableObject.CreateInstance method instead of new character.
+ 
+(Filename:  Line: 645)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Legacy Shaders/Specular' - Pass 'Meta' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy Shaders/Bumped Specular' - Pass 'Meta' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy Shaders/Bumped Specular' - Pass 'Meta' has no vertex shader
+WARNING: Shader Unsupported: 'Standard' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Standard' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Legacy Shaders/Parallax Specular' - Pass 'Meta' has no vertex shader
+UnloadTime: 3.421400 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 0.353700 ms (FindLiveObjects: 0.141200 ms CreateObjectMapping: 0.007800 ms MarkObjects: 0.158900 ms  DeleteObjects: 0.045600 ms)
+
+it works
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301800 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 807.
+Total: 0.584000 ms (FindLiveObjects: 0.142800 ms CreateObjectMapping: 0.014400 ms MarkObjects: 0.297500 ms  DeleteObjects: 0.128900 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3768 -> priority: 1 
+  Thread -> id: 3684 -> priority: 1 
+  Thread -> id: 1098 -> priority: 1 
+  Thread -> id: 41fc -> priority: 1 
+  Thread -> id: 5af4 -> priority: 1 
+  Thread -> id: 4d70 -> priority: 1 

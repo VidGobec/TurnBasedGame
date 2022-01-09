@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: helpabug
+  m_EditorClassIdentifier: 
+  title: caterpillar trouble
+  description: you spot a caterpillar trying to cross the road.
+  options1: help it cross the road
+  options2: help it cross the road halfway
+  options3: don't help it
+  buff:
+  - {fileID: 11400000, guid: 10e3d758e31ed8e419fc0aa87c1f5f58, type: 2}
+  - {fileID: 11400000, guid: ddaf367cbe8ad964692345ba370effbe, type: 2}
+  - {fileID: 11400000, guid: 8e2fd9676aac3594ea686e37282f1bc7, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c91e1139bcf58f34f9ee983c9f0b7f9f, type: 3}
+  m_Name: cultist
+  m_EditorClassIdentifier: 
+  name: cultist
+  exp: 0
+  exptoadd: 0
+  level: 0
+  specialization: mage
+  race: reaper1
+  basehp: 150
+  currenthp: 150
+  basemp: 150
+  currentmp: 150
+  FOC: 15
+  PER: 15
+  STR: 10
+  INT: 20
+  AGI: 15
+  LCK: 5
+  SPD: 8
+  position: 0
+  abilities:
+  - {fileID: 11400000, guid: e27c0ba1410bba84eafd5928118b0c94, type: 2}
+  - {fileID: 11400000, guid: e841597433abc97498b9eb467fa46a3e, type: 2}
+  - {fileID: 11400000, guid: 5f02713275fca5e47bbf3e0ca0dbc18b, type: 2}
+  - {fileID: 11400000, guid: 86deca03a3c0aa64fa8b387e0afc2c03, type: 2}
+  ai: 1
+  buffs: []

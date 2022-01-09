@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: teiruto
+  m_EditorClassIdentifier: 
+  title: Teiruto
+  description: 'you come to an arena where you meet a great hero Teiruto. '
+  options1: fight him
+  options2: train with him
+  options3: beg for mercy
+  buff:
+  - {fileID: 11400000, guid: 5264d08276da86c469bb98a1ded4bdab, type: 2}
+  - {fileID: 11400000, guid: f6758170ac8eb3841bf78a997c840a26, type: 2}
+  - {fileID: 11400000, guid: 330905c0e1d2f9449bf6539a80a13183, type: 2}

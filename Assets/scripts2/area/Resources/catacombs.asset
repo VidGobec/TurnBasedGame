@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd8e841e3432fe4e904ed4f05d39e7e, type: 3}
+  m_Name: catacombs
+  m_EditorClassIdentifier: 
+  name: catacombs
+  enemy:
+  - {fileID: 11400000, guid: 5dbd542ac1004d749a2e0c96931dbaeb, type: 2}
+  - {fileID: 11400000, guid: 5a7c65d4b6e48df4ea330633e92e2823, type: 2}
+  events:
+  - {fileID: 11400000, guid: 2787897cf19d24e4fa10c28482caac42, type: 2}
+  - {fileID: 11400000, guid: 68879aed9653a0647949dd41fee59c7c, type: 2}
+  - {fileID: 11400000, guid: d609adfb1938b7843a306f7185d314fe, type: 2}
+  - {fileID: 11400000, guid: afa1f344e9bd00845a23132c4fa067ff, type: 2}
+  - {fileID: 11400000, guid: 1a4f0bbe884a858459cf3e0c5d245bdb, type: 2}
+  - {fileID: 11400000, guid: 7dcd63a704492f445a19a96d7cc4c5d4, type: 2}
+  - {fileID: 11400000, guid: 01d87fa7181b3ad4b8c0c0b20a29c06f, type: 2}
+  - {fileID: 11400000, guid: 8bcb85d06719a6643aba350160a9eba2, type: 2}
+  - {fileID: 11400000, guid: 4fef11b985a478147ac889e62ad68ca0, type: 2}
+  - {fileID: 11400000, guid: 4fef11b985a478147ac889e62ad68ca0, type: 2}

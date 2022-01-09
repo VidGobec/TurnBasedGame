@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b835380e885a4684a9e0c1fd493213c6, type: 3}
+  m_Name: skeleton necromancer
+  m_EditorClassIdentifier: 
+  name: 
+  levelup: 3
+  leveldown: 1
+  maxlvl: 10
+  minlvl: 2
+  race: skeleton
+  specialization: priest
+  basehp: 70
+  basemp: 80
+  FOC: 1.42
+  PER: 1.15
+  STR: 1
+  INT: 1.36
+  AGI: 1.09
+  LCK: 1.12
+  SPD: 1.31
+  abilities:
+  - {fileID: 11400000, guid: e27c0ba1410bba84eafd5928118b0c94, type: 2}
+  - {fileID: 11400000, guid: 26dc8d359f761e34483a081785790c0f, type: 2}
+  - {fileID: 11400000, guid: 86deca03a3c0aa64fa8b387e0afc2c03, type: 2}

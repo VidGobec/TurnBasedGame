@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: shirt
+  m_EditorClassIdentifier: 
+  title: shirt
+  description: you find a shirt with a depiction of a butterfly on it.
+  options1: put it on
+  options2: sell it
+  options3: throw away
+  buff:
+  - {fileID: 11400000, guid: 79eee111dd63a5c408bdbcd3214f8f95, type: 2}
+  - {fileID: 11400000, guid: 8273df327329c0c4d962b9d3d547c064, type: 2}
+  - {fileID: 11400000, guid: b4e7248e365797348a7ad7c2a03644af, type: 2}

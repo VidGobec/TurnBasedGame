@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: magical cabbage
+  m_EditorClassIdentifier: 
+  title: Cabbage
+  description: Upon looting the room and finding nothign of real value, you hear a
+    party member screem that he found a cabbage growing inside a closet.
+  options1: Eat it
+  options2: Store it
+  options3: Leave it
+  buff:
+  - {fileID: 11400000, guid: 0b414b66bd82e054493dd322254ad130, type: 2}
+  - {fileID: 11400000, guid: 7a5f348d36781444482be20f672630f3, type: 2}
+  - {fileID: 11400000, guid: b4e7248e365797348a7ad7c2a03644af, type: 2}

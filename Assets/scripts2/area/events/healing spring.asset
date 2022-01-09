@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: healing spring
+  m_EditorClassIdentifier: 
+  title: strange Spring
+  description: You stumble upon a strange spring. It radiates magical energy.
+  options1: drink from it
+  options2: bathe in it
+  options3: ignore it
+  buff:
+  - {fileID: 11400000, guid: b3e3a82ea37d7aa4faf2f3b951031a51, type: 2}
+  - {fileID: 11400000, guid: a87d2d2dc1fa64b4d9d3c4b45651bd9b, type: 2}
+  - {fileID: 11400000, guid: b4e7248e365797348a7ad7c2a03644af, type: 2}

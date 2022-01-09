@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1b37105dbab80b418b74fdeb3b2e1e4, type: 3}
+  m_Name: Combustion
+  m_EditorClassIdentifier: Assembly-CSharp::ability
+  name: Combustion
+  desc: an aoe explosion
+  mod: 1.3
+  cost: 30
+  amount: 1
+  closefar: 1
+  dmgtype: 0
+  type: 1
+  target: 2
+  projectileprefab: {fileID: 2644475595283063134, guid: f5d32c26a4f44124981acd42a4d8e70a,
+    type: 3}
+  scale: 10

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: darttrap
+  m_EditorClassIdentifier: 
+  title: trap
+  description: while walking to the next room you trigger a tripwire, firing a dart
+    at one of your heroes.
+  options1: ow
+  options2: ouch
+  options3: uff
+  buff:
+  - {fileID: 11400000, guid: 867686fe3d71d3247af899d3262be00c, type: 2}
+  - {fileID: 11400000, guid: 867686fe3d71d3247af899d3262be00c, type: 2}
+  - {fileID: 11400000, guid: 867686fe3d71d3247af899d3262be00c, type: 2}

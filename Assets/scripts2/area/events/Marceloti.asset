@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: Marceloti
+  m_EditorClassIdentifier: Assembly-CSharp::Event
+  title: The Great Marceloti
+  description: You spot a group of headless knights charaging towards you. Yuou recognize
+    them as the Great Marceloti royal to saint Marcel. They don't seem to be slowing
+    down.
+  options1: step aside
+  options2: stand your ground
+  options3: run away
+  buff:
+  - {fileID: 11400000, guid: 4f57c22d2e2e26a46a3913f677265893, type: 2}
+  - {fileID: 11400000, guid: 45afbd4d3e2cca143a1d7bfb1c3e4b44, type: 2}
+  - {fileID: 11400000, guid: 8ae3955f14270fa48a837cb93c1ddba0, type: 2}

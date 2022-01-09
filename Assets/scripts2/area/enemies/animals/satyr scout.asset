@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c91e1139bcf58f34f9ee983c9f0b7f9f, type: 3}
+  m_Name: satyr scout
+  m_EditorClassIdentifier: 
+  name: satyr scout
+  exp: 0
+  exptoadd: 0
+  level: 0
+  specialization: scout
+  race: satyr1
+  basehp: 75
+  currenthp: 75
+  basemp: 100
+  currentmp: 100
+  FOC: 10
+  PER: 25
+  STR: 5
+  INT: 5
+  AGI: 25
+  LCK: 25
+  SPD: 25
+  position: 0
+  abilities:
+  - {fileID: 11400000, guid: e27c0ba1410bba84eafd5928118b0c94, type: 2}
+  ai: 1
+  buffs: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80de752edc01b1b439ffb3fd856996d4, type: 3}
+  m_Name: curious ghost
+  m_EditorClassIdentifier: 
+  title: Ghost
+  description: You encounter a lone ghost. It dosen't seem hostile.
+  options1: attack it
+  options2: ignore it
+  options3: give it food
+  buff:
+  - {fileID: 11400000, guid: efe041ca4eea6004fa910d6b92856e62, type: 2}
+  - {fileID: 11400000, guid: b4e7248e365797348a7ad7c2a03644af, type: 2}
+  - {fileID: 11400000, guid: ead1ea44d82046e41aea26a40ee4cfec, type: 2}

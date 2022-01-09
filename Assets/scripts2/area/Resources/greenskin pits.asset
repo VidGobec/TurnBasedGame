@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd8e841e3432fe4e904ed4f05d39e7e, type: 3}
+  m_Name: greenskin pits
+  m_EditorClassIdentifier: 
+  name: greenskin pits
+  enemy:
+  - {fileID: 11400000, guid: fe49343f64383ee47bba9c014a3ab6b6, type: 2}
+  events:
+  - {fileID: 11400000, guid: d609adfb1938b7843a306f7185d314fe, type: 2}
+  - {fileID: 11400000, guid: 3a1a18a66a0890644b90ec2a30a31fb2, type: 2}
+  - {fileID: 11400000, guid: 9c90576cbce17bc4399f9b390fffd5c1, type: 2}
+  - {fileID: 11400000, guid: 7bba18eade8ad554bbe69127f6c4c622, type: 2}
+  - {fileID: 11400000, guid: 27a82503f7dbcb24eb35b9b3dc9d534f, type: 2}
+  - {fileID: 11400000, guid: 1a4f0bbe884a858459cf3e0c5d245bdb, type: 2}
+  - {fileID: 11400000, guid: 604e8f0f0c03bd34c8a499ed7c06a083, type: 2}
+  - {fileID: 11400000, guid: 8720e9a78b27e7840a0c8662da1f41ce, type: 2}
+  - {fileID: 11400000, guid: 604e8f0f0c03bd34c8a499ed7c06a083, type: 2}
+  - {fileID: 11400000, guid: 8b630e7bba3290c4285bccc2f882168f, type: 2}
